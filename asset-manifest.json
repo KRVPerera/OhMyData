@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OhMyData/static/css/main.5f361e03.chunk.css",
+    "main.js": "/OhMyData/static/js/main.3f30689e.chunk.js",
+    "main.js.map": "/OhMyData/static/js/main.3f30689e.chunk.js.map",
+    "runtime-main.js": "/OhMyData/static/js/runtime-main.1976dd63.js",
+    "runtime-main.js.map": "/OhMyData/static/js/runtime-main.1976dd63.js.map",
+    "static/js/2.818f3412.chunk.js": "/OhMyData/static/js/2.818f3412.chunk.js",
+    "static/js/2.818f3412.chunk.js.map": "/OhMyData/static/js/2.818f3412.chunk.js.map",
+    "index.html": "/OhMyData/index.html",
+    "precache-manifest.e64944c17bc2ba79f2b8871546d32bb1.js": "/OhMyData/precache-manifest.e64944c17bc2ba79f2b8871546d32bb1.js",
+    "service-worker.js": "/OhMyData/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/OhMyData/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.818f3412.chunk.js.LICENSE.txt": "/OhMyData/static/js/2.818f3412.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/OhMyData/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1976dd63.js",
+    "static/js/2.818f3412.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3f30689e.chunk.js"
+  ]
+}
